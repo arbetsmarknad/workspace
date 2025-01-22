@@ -3,7 +3,7 @@ meta:=$(bin)/meta
 
 $(meta):
 	pnpm
-	
+
 .PHONY: install
 install: $(meta)
 	@$(meta) git update
