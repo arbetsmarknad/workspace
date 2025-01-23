@@ -6,6 +6,6 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "workspace",
+  "name": "@arbetsmarknad/workspace",
   "version": "1.0.0"
 }
